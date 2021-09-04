@@ -1,4 +1,4 @@
-x = int(input("choose a number: "))
+x = 3
 
 if x < 5:
     print("x<5")
